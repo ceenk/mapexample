@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">MapExample</string>
+    <string name="title_activity_maps">Map</string>
+    <string name="facebook_app_id">1063318123680160</string>
+</resources>
